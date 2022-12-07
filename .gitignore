@@ -1,0 +1,7 @@
+# dev environment files
+**/*.vscode
+
+# build files and binaries
+**/*.bin
+**/*.o
+**/*.out
